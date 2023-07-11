@@ -1,0 +1,535 @@
+newmtl Blue
+Ka 1.0 1.0 1.0
+Kd 0.009134 0.381326 0.879623
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl BlueL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+map_Kd miraculouscraft:blocks/
+Ns 250.0
+d 1.0
+newmtl Box
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.031818 0.031818 0.031818
+map_Kd miraculouscraft:blocks/bakedtex
+Ns 250.0
+d 1.0
+newmtl Cat
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/cat
+Ns 250.0
+d 1.0
+newmtl Dog
+Ka 1.0 1.0 1.0
+Kd 0.83077 0.40724 0.147027
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl DogL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/dog
+Ns 250.0
+d 1.0
+newmtl Dragon
+Ka 1.0 1.0 1.0
+Kd 0.545725 0.064803 0.074214
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl DragonL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/dragon
+Ns 250.0
+d 1.0
+newmtl Fabric_02
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+map_Kd miraculouscraft:blocks/fabric
+Ns 250.0
+d 1.0
+newmtl Goat
+Ka 1.0 1.0 1.0
+Kd 0.62396 0.637597 0.679543
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl GoatL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/goat
+Ns 250.0
+d 1.0
+newmtl Gold
+Ka 1.0 1.0 1.0
+Kd 0.661863 0.200422 0.022745
+Ks 0.5 0.5 0.5
+Ns 717.409
+d 1.0
+newmtl Green
+Ka 1.0 1.0 1.0
+Kd 0.138432 0.913099 0.3564
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl GreenL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+map_Kd miraculouscraft:blocks/
+Ns 250.0
+d 1.0
+newmtl Horse
+Ka 1.0 1.0 1.0
+Kd 0.226966 0.158961 0.152926
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl HorseL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/horse
+Ns 250.0
+d 1.0
+newmtl Material
+Ka 1.0 1.0 1.0
+Kd 0.23074 0.001214 0.045186
+Ks 0.0 0.0 0.0
+Ns 0.0
+d 1.0
+newmtl Mira-Laydybug
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+map_Kd miraculouscraft:blocks/ladybug_miraculous
+Ns 250.0
+d 1.0
+newmtl Mira-Laydybug2
+Ka 1.0 1.0 1.0
+Kd 0.384374 0.384374 0.384374
+Ks 0.0 0.0 0.0
+Ns 925.4216
+d 1.0
+newmtl Mira-fox
+Ka 1.0 1.0 1.0
+Kd 0.955973 0.052861 3.04E-4
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl Monkey
+Ka 1.0 1.0 1.0
+Kd 0.48515 0.412543 0.116971
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl MonkeyL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/monkey
+Ns 250.0
+d 1.0
+newmtl Orange
+Ka 1.0 1.0 1.0
+Kd 0.964686 0.806952 0.003347
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl OrangeL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+map_Kd miraculouscraft:blocks/
+Ns 250.0
+d 1.0
+newmtl Pig
+Ka 1.0 1.0 1.0
+Kd 0.603827 0.552011 0.701102
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl PigL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/pig
+Ns 250.0
+d 1.0
+newmtl Pink
+Ka 1.0 1.0 1.0
+Kd 0.254152 0.0 0.109462
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl PinkL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/
+Ns 250.0
+d 1.0
+newmtl Rabbit
+Ka 1.0 1.0 1.0
+Kd 0.097587 0.48515 0.62396
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl RabbitL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/rabbit
+Ns 250.0
+d 1.0
+newmtl Rat
+Ka 1.0 1.0 1.0
+Kd 0.610496 0.630757 0.665387
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl RatL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/rat
+Ns 250.0
+d 1.0
+newmtl Rooster
+Ka 1.0 1.0 1.0
+Kd 0.964686 0.226966 0.025187
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl RoosterL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/rooaster
+Ns 250.0
+d 1.0
+newmtl Snake
+Ka 1.0 1.0 1.0
+Kd 0.114435 0.564712 0.564712
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl SnakeL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/snake
+Ns 250.0
+d 1.0
+newmtl Tiger
+Ka 1.0 1.0 1.0
+Kd 0.630757 0.027321 0.318547
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl TigerL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/tiger
+Ns 250.0
+d 1.0
+newmtl YangGrey
+Ka 1.0 1.0 1.0
+Kd 0.508881 0.508881 0.508881
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl YangWhite
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl Yellow
+Ka 1.0 1.0 1.0
+Kd 0.83077 1.0 0.006049
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl YellowL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+map_Kd miraculouscraft:blocks/
+Ns 250.0
+d 1.0
+newmtl YingBlack
+Ka 1.0 1.0 1.0
+Kd 0.010987 0.010987 0.010987
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl YingRed
+Ka 1.0 1.0 1.0
+Kd 0.318547 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl ladybug_
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/circles
+Ns 250.0
+d 1.0
+newmtl mira-Turtle
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-Turtle.2
+Ka 1.0 1.0 1.0
+Kd 0.003095 0.003095 0.003095
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-Turtle.3
+Ka 1.0 1.0 1.0
+Kd 0.090792 0.403872 0.8
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-bee
+Ka 1.0 1.0 1.0
+Kd 0.8 0.315213 0.0
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-bee2
+Ka 1.0 1.0 1.0
+Kd 0.420024 0.420024 0.420024
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-bee3
+Ka 1.0 1.0 1.0
+Kd 0.060719 0.012132 0.040871
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-bee4
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-catnoir
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/cat_miraculous
+Ns 250.0
+d 1.0
+newmtl mira-catnoir2
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.457257 0.457257 0.457257
+Ns 448.24487
+d 1.0
+newmtl mira-dog
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-dog2
+Ka 1.0 1.0 1.0
+Kd 0.004896 0.004896 0.004896
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-dog3
+Ka 1.0 1.0 1.0
+Kd 0.184468 0.184468 0.184468
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-dog4
+Ka 1.0 1.0 1.0
+Kd 0.190178 0.081483 0.036498
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-dragon
+Ka 1.0 1.0 1.0
+Kd 0.003642 0.003642 0.003642
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-dragon2
+Ka 1.0 1.0 1.0
+Kd 0.326376 0.004423 0.003083
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-fox2
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-fox3
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-goat
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl mira-goat2
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-horse
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.127273 0.127273 0.127273
+Ns 250.0
+d 1.0
+newmtl mira-horse2
+Ka 1.0 1.0 1.0
+Kd 0.072272 0.708376 0.597202
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-monkey
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-monkey2
+Ka 1.0 1.0 1.0
+Kd 0.438544 0.222601 0.0
+Ks 0.168182 0.168182 0.168182
+Ns 1000.0
+d 1.0
+newmtl mira-ox
+Ka 1.0 1.0 1.0
+Kd 0.001644 8.58E-4 0.013411
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-ox2
+Ka 1.0 1.0 1.0
+Kd 0.384374 0.236883 0.001404
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-pig
+Ka 1.0 1.0 1.0
+Kd 0.8 0.334891 0.604649
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-pig2
+Ka 1.0 1.0 1.0
+Kd 0.538225 0.182247 0.477444
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-rabbit
+Ka 1.0 1.0 1.0
+Kd 0.017503 0.128414 0.350555
+Ks 1.0 1.0 1.0
+Ns 448.35162
+d 1.0
+newmtl mira-rabbit2
+Ka 1.0 1.0 1.0
+Kd 0.012217 0.012217 0.012217
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-rat
+Ka 1.0 1.0 1.0
+Kd 0.011088 0.011088 0.011088
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-rat2
+Ka 1.0 1.0 1.0
+Kd 0.661863 0.126532 0.550688
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-rat3
+Ka 1.0 1.0 1.0
+Kd 0.8 0.8 0.8
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-roaster
+Ka 1.0 1.0 1.0
+Kd 0.08714 0.08714 0.08714
+Ks 0.5 0.5 0.5
+Ns 733.97797
+d 1.0
+newmtl mira-snake
+Ka 1.0 1.0 1.0
+Kd 0.047191 0.438544 0.370646
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-snake2
+Ka 1.0 1.0 1.0
+Kd 1.0 0.588325 0.0
+Ks 0.5 0.5 0.5
+Ns 250.0
+d 1.0
+newmtl mira-tiger
+Ka 1.0 1.0 1.0
+Kd 0.169958 0.160762 0.16763
+Ks 0.445455 0.445455 0.445455
+Ns 312.58267
+d 1.0
+newmtl mira-tiger2
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/tiger
+Ns 458.6984
+d 1.0
+newmtl ox
+Ka 1.0 1.0 1.0
+Kd 0.035601 0.046665 0.401978
+Ks 0.0 0.0 0.0
+Ns 250.0
+d 1.0
+newmtl oxL
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd miraculouscraft:blocks/ox
+Ns 250.0
+d 1.0
+newmtl symbols
+Ka 1.0 1.0 1.0
+Kd 0.0 0.0 0.0
+Ks 1.0 1.0 1.0
+map_Kd miraculouscraft:blocks/
+Ns 717.409
+d 1.0

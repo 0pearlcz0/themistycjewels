@@ -1,0 +1,7 @@
+{
+  "parent": "miraculouscraft:custom/cat_miraculous",
+  "textures": {
+    "0": "miraculouscraft:blocks/cat_miraculous",
+    "particle": "miraculouscraft:items/cat_miraculous"
+  }
+}

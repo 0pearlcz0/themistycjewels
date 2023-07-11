@@ -1,0 +1,7 @@
+{
+  "parent": "miraculouscraft:custom/butterfly_miraculous",
+  "textures": {
+    "1": "miraculouscraft:blocks/butterfly_miraculous",
+    "particle": "miraculouscraft:items/butterfly_miraculous"
+  }
+}

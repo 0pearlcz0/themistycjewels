@@ -1,0 +1,314 @@
+{
+  "mod_elements": [
+    {
+      "name": "MiraculousCraft",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miraculous_craft",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/itemgroup/MiraculousCraftItemGroup.java"
+        ]
+      },
+      "path": "~/Mirakula/Others"
+    },
+    {
+      "name": "MiraculousCraft2",
+      "type": "tab",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "miraculous_craft_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/itemgroup/MiraculousCraft2ItemGroup.java"
+        ]
+      },
+      "path": "~/Mirakula/Season 5"
+    },
+    {
+      "name": "OldMiracleBox",
+      "type": "gui",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "old_miracle_box",
+      "path": "~/Boxy/Otevrene"
+    },
+    {
+      "name": "BeeMiraculum",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bee_miraculum",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/item/BeeMiraculumItem.java",
+          "src/main/resources/assets/miraculouscraft/models/item/bee_miraculum.json"
+        ]
+      },
+      "path": "~/Mirakula/Others"
+    },
+    {
+      "name": "Boxes",
+      "type": "tab",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "boxes",
+      "path": "~/Boxy"
+    },
+    {
+      "name": "CatMiraculum",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cat_miraculum",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/miraculouscraft/models/item/cat_miraculum.json",
+          "src/main/java/net/mcreator/miraculouscraft/item/CatMiraculumItem.java"
+        ]
+      },
+      "path": "~/Mirakula/Others"
+    },
+    {
+      "name": "ButterflyMiraculum",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "butterfly_miraculum",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/miraculouscraft/models/item/butterfly_miraculum.json",
+          "src/main/java/net/mcreator/miraculouscraft/item/ButterflyMiraculumItem.java"
+        ]
+      },
+      "path": "~/Mirakula/Others"
+    },
+    {
+      "name": "FoxMiraculum",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fox_miraculum",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/item/FoxMiraculumItem.java",
+          "src/main/resources/assets/miraculouscraft/models/item/fox_miraculum.json"
+        ]
+      },
+      "path": "~/Mirakula/Others"
+    },
+    {
+      "name": "Transformation",
+      "type": "keybind",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "transformation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/keybind/TransformationKeyBinding.java"
+        ]
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "Untransformation",
+      "type": "keybind",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "untransformation",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/keybind/UntransformationKeyBinding.java"
+        ]
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "Power1",
+      "type": "keybind",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/keybind/Power1KeyBinding.java"
+        ]
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "Power2",
+      "type": "keybind",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/keybind/Power2KeyBinding.java"
+        ]
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "TransformationProcedure",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "transformation_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/procedures/TransformationProcedureProcedure.java"
+        ],
+        "dependencies": []
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "UntransformationProcedure",
+      "type": "procedure",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "untransformation_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/procedures/UntransformationProcedureProcedure.java"
+        ],
+        "dependencies": []
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "Power1Procedure",
+      "type": "procedure",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_1_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/procedures/Power1ProcedureProcedure.java"
+        ],
+        "dependencies": []
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "Power2Procedure",
+      "type": "procedure",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "power_2_procedure",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/miraculouscraft/procedures/Power2ProcedureProcedure.java"
+        ],
+        "dependencies": []
+      },
+      "path": "~/Keybinds"
+    },
+    {
+      "name": "OldMiracleBoxBlock",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "old_miracle_box_block",
+      "path": "~/Boxy/Otevrene"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.miraculouscraft.fox_miraculum": "Fox Miraculum",
+      "itemGroup.tabmiraculous_craft_2": "Miraculous Craft Season 5",
+      "item.miraculouscraft.butterfly_miraculum": "Butterfly Miraculum",
+      "key.miraculouscraft.untransformation": "Untransformation",
+      "itemGroup.tabmiraculous_craft": "Miraculous Craft",
+      "item.miraculouscraft.cat_miraculum": "Cat Miraculum",
+      "key.miraculouscraft.transformation": "Transformation",
+      "key.miraculouscraft.power_1": "Power 1",
+      "key.miraculouscraft.power_2": "Power 2",
+      "item.miraculouscraft.bee_miraculum": "Bee Miraculum"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "Mirakula",
+        "children": [
+          {
+            "name": "Season 5",
+            "children": []
+          },
+          {
+            "name": "Others",
+            "children": [
+              {
+                "name": "Functions",
+                "children": [
+                  {
+                    "name": "Cat",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Boxy",
+        "children": [
+          {
+            "name": "Zavrene",
+            "children": []
+          },
+          {
+            "name": "Otevrene",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Keybinds",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "miraculouscraft",
+    "modName": "MiraculousCraft",
+    "version": "1.0.0",
+    "author": "Dell, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.miraculouscraft",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}

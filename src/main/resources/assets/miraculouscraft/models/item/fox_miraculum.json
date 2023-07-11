@@ -1,0 +1,7 @@
+{
+  "parent": "miraculouscraft:custom/fox_miraculous",
+  "textures": {
+    "0": "miraculouscraft:blocks/fox_miraculous",
+    "particle": "miraculouscraft:items/fox_miraculous"
+  }
+}

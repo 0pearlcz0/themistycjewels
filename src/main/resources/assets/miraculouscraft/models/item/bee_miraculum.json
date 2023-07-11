@@ -1,0 +1,7 @@
+{
+  "parent": "miraculouscraft:custom/bee_miraculous",
+  "textures": {
+    "0": "miraculouscraft:blocks/bee_miraculous",
+    "particle": "miraculouscraft:items/bee_miraculous"
+  }
+}

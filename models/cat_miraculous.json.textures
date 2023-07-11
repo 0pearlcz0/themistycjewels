@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cat_miraculous"
+      },
+      "name": "default"
+    }
+  }
+}

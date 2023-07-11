@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "monkey_miraculous"
+      },
+      "name": "default"
+    }
+  }
+}
